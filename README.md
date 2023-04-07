@@ -1,4 +1,4 @@
-# ** DraftGPT**
+# DraftGPT
 
 This Python application listens to your Gmail inbox and generates draft responses for unread emails using OpenAI's ChatGPT API.
 
